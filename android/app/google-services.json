@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1017103788705",
+    "firebase_url": "https://loja-flutter-35303.firebaseio.com",
+    "project_id": "loja-flutter-35303",
+    "storage_bucket": "loja-flutter-35303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017103788705:android:5dde038ad6ebaf5a",
+        "android_client_info": {
+          "package_name": "br.com.lion.loja_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017103788705-k9h0f0qkniim6muvc014jbrhoiv24uvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmSwV68XP3XBvxF_PLiSxwhfzxQ-_qUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
